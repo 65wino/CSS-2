@@ -1,0 +1,41 @@
+#pogrubienie_brokos {
+    font-weight: bold;
+    font-size: 150px;
+    color: #885FD4;
+}
+
+#pochylona_brokos {
+    font-style: italic;
+    font-size: 36pt;
+    color: #ECC370;
+}
+
+
+#index_gorny_brokos {
+    vertical-align: super;
+    font-size: 1.1cm;
+    color: #9C9120;
+}
+
+#index_dolny_brokos {
+    vertical-align: sub;
+    font-size: 1.7cm;
+    color: rgb(56%, 245%, 232%);
+}
+
+#mono_brokos {
+    font-family: monospace;
+    font-size: 41px;
+    color: #1CE170;
+}
+
+#powiekszenie_brokos {
+    color: #5641A2;
+    font-size: larger;
+}
+
+
+#pomniejszenie_brokos {
+    color: rgb(186%, 165%, 62%);
+    font-size: smaller;
+}
